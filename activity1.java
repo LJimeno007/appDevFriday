@@ -37,7 +37,7 @@ public class Activity1 {
         System.out.println("ASHLEY GEGUIERA - BSIT-2I");
 
         System.out.println("JEA MAE BARGASO- BSIT-2I");
-
+System.out.println("LOVE JIMENO BSIT-2I");
 
         System.out.println("MARWIN R. CONDE - BSIT-2I");
 
